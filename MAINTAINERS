@@ -8905,10 +8905,16 @@ S:	Maintained
 F:	arch/alpha/kernel/srm_env.c
 
 STABLE BRANCH
+<<<<<<< HEAD
 M:	Greg Kroah-Hartman <gregkh@linuxfoundation.org>
 L:	stable@vger.kernel.org
 S:	Supported
 F:	Documentation/stable_kernel_rules.txt
+=======
+M:	Greg Kroah-Hartman <greg@kroah.com>
+L:	stable@vger.kernel.org
+S:	Maintained
+>>>>>>> 13e864b... MAINTAINERS: stable: Update address
 
 STAGING SUBSYSTEM
 M:	Greg Kroah-Hartman <gregkh@linuxfoundation.org>
